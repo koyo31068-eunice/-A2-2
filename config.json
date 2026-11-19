@@ -1,0 +1,9 @@
+{
+  "db_path": "news.db",
+  "log_level": "INFO",
+  "duplicate_policy": "skip",
+  "api_keys": {
+    "news_api": "f01d9b92b1114e88a1aebdc52e2c3964",
+    "ai_api": "AQ.Ab8RN6Jp4KuUPdXbmIyYapEalU_ly6-5qJ7lN45-s3Y4zBZ8rw"
+  }
+}
